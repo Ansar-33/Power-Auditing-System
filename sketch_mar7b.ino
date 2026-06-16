@@ -1,7 +1,7 @@
 /*********** BLYNK ***********/
-#define BLYNK_TEMPLATE_ID "TMPL3ecszztii"
-#define BLYNK_TEMPLATE_NAME "Energy Monitoring System"
-#define BLYNK_AUTH_TOKEN "fsBOKxqZlOHfRXoKHBTCKnEw5YWnSGCz"
+#define BLYNK_TEMPLATE_ID "your_template_id"
+#define BLYNK_TEMPLATE_NAME "your_template_name"
+#define BLYNK_AUTH_TOKEN "your_auth_token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
